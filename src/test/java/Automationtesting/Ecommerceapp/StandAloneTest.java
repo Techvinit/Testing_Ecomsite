@@ -60,7 +60,7 @@ public class StandAloneTest {
        
        String str= driver.findElement(By.cssSelector(".hero-primary")).getText();
        Assert.assertEquals(str, "THANKYOU FOR THE ORDER.");
-       driver.close();
+       
        
          
         
