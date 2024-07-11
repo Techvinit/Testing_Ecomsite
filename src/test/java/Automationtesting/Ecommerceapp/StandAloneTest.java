@@ -62,7 +62,7 @@ public class StandAloneTest {
        Assert.assertEquals(str, "THANKYOU FOR THE ORDER.");
        driver.close();
        
-       //hello check git
+       //hello check git status
        
          
         
